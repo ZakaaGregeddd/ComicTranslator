@@ -99,6 +99,5 @@ coverage/
 *.bak
 *.back
 *.old
-*backup*
 temp/
 tmp/
