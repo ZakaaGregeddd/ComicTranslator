@@ -19,7 +19,6 @@ out/
 
 # Local configuration file
 local.properties
-gradle.properties
 
 # Generated files
 bin/
