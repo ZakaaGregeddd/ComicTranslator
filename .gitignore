@@ -1,0 +1,105 @@
+# Gradle
+.gradle/
+build/
+*.class
+*.jar
+*.war
+*.ear
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.vscode/
+*.apk
+*.ap_
+*.dex
+
+# Local configuration file
+local.properties
+gradle.properties
+
+# Generated files
+bin/
+gen/
+proguard_logs/
+
+# Android/IntelliJ
+.gradle
+build/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Build outputs
+app/build/
+*.aar
+
+# Signing
+keystore.jks
+*.keystore
+
+# Temporary files
+*.tmp
+*.log
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Lint results
+lint-results.xml
+lint-results.html
+
+# Google Services
+google-services.json
+
+# Firebase
+google-services.json
+
+# Keys and secrets
+.env
+secrets.properties
+*.pem
+*.key
+
+# IDE specific files
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+app/src/main/res/mipmap-*/ic_launcher.png
+app/src/main/res/mipmap-*/ic_launcher_round.png
+
+# Emulator
+*.avd/
+*.ini
+
+# Reports
+reports/
+coverage/
+*.csv
+*.xls
+*.xlsx
+
+# Misc
+*.bak
+*.back
+*.old
+*backup*
+temp/
+tmp/
